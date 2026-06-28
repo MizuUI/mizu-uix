@@ -1,77 +1,27 @@
-# PRIMEUIX
+# PrimeUIX
 
-PrimeUIX is a shared package between all Prime libraries, this shared approach allows PrimeTek teams to share theming and the Design team who is responsible for the Figma UI Kit to work on a single design file, which is the single source of truth.
+### The next chapter has begun.
 
-### Setup
+After years as an open source library, PrimeUIX enters its next chapter as part of **PrimeUI**,  a sustainable foundation for the libraries you rely on.
 
-> [!IMPORTANT]
-> This project requires **pnpm 9.6.0 or later**. Please ensure the correct version is installed before proceeding.
+This repository is now **archived**. It remains available, as a record of everything built here together.
 
-1. **Initialize Git Submodules**
-   On a fresh clone, submodules must be initialized before running any setup commands:
+## What this means
 
-   ```sh
-   git submodule update --init --recursive
-   ```
+**Existing MIT versions remain MIT, forever.**
+Every release published under the MIT license stays exactly as it is. Your existing projects are unaffected. Nothing is taken away.
 
-2. **Link Dependencies**  
-   Run the following command to link dependencies:
+**Development continues at a new home.**
+Active development, new releases, and everything ahead now live under PrimeUI.
 
-   ```sh
-   pnpm run link
-   ```
+➡️ **Read the announcement:** [primeui.dev/nextchapter](https://primeui.dev/nextchapter)
 
-   If any issues occur, it may be necessary to manually run the following command for each package inside the `packages` folder:
+➡️ **The journey continues at:** [primeuix.dev](https://primeuix.dev)
 
-   ```sh
-   cd packages/forms && pnpm run dev:link
-   cd packages/themes && pnpm run dev:link
-   ...
-   ```
+## Thank you
 
-   In some cases, permission issues might require using `sudo`. For example:
+To everyone who used PrimeUIX, filed an issue, opened a pull request, answered a question, or simply built something with it,  thank you. This library reached hundreds of millions of downloads because of you.
 
-   ```sh
-   cd packages/themes && sudo pnpm run dev:link
-   ...
-   ```
+This archive stays here as a thank you and a milestone. The next chapter is just beginning, and we hope you'll be part of it.
 
-> [!NOTE]
-> This linking process only needs to be performed once.
-
-3. **Setup the Project**  
-   Run the following command to bootstrap the workspace:
-
-   ```sh
-   pnpm run setup
-   ```
-
-4. **Start Development Server**  
-
-- For **Angular**:
-
-     ```sh
-     pnpm run ng:dev
-     ```
-
-- For **React**:
-
-     ```sh
-     pnpm run react:dev
-     ```
-
-- For **Vue**:
-
-     ```sh
-     pnpm run vue:dev
-     ```
-
-### Submodules
-
-This project includes **PrimeNG**, **PrimeReact** and **PrimeVue** as submodules. To update these submodules, run the following command:
-
-   ```sh
-   git submodule update --init --remote --merge
-   ```
-
-All set! Happy coding! 🚀
+— The PrimeTek Team
