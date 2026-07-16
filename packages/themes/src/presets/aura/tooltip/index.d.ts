@@ -1,6 +1,6 @@
-import type { TooltipTokenSections } from '@primeuix/themes/types/tooltip';
+import type { TooltipTokenSections } from '@mizuuix/themes/types/tooltip';
 
-export * from '@primeuix/themes/types/tooltip';
+export * from '@mizuuix/themes/types/tooltip';
 
 declare const root: TooltipTokenSections.Root;
 declare const colorScheme: TooltipTokenSections.ColorScheme;

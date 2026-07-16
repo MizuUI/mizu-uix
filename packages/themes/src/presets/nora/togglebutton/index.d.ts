@@ -1,6 +1,6 @@
-import type { ToggleButtonTokenSections } from '@primeuix/themes/types/togglebutton';
+import type { ToggleButtonTokenSections } from '@mizuuix/themes/types/togglebutton';
 
-export * from '@primeuix/themes/types/togglebutton';
+export * from '@mizuuix/themes/types/togglebutton';
 
 declare const root: ToggleButtonTokenSections.Root;
 declare const icon: ToggleButtonTokenSections.Icon;

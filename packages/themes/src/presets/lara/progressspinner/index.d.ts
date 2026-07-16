@@ -1,6 +1,6 @@
-import type { ProgressSpinnerTokenSections } from '@primeuix/themes/types/progressspinner';
+import type { ProgressSpinnerTokenSections } from '@mizuuix/themes/types/progressspinner';
 
-export * from '@primeuix/themes/types/progressspinner';
+export * from '@mizuuix/themes/types/progressspinner';
 
 declare const colorScheme: ProgressSpinnerTokenSections.ColorScheme;
 declare const _default: {

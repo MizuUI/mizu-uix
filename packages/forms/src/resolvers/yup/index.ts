@@ -1,5 +1,5 @@
-import { toValues } from '@primeuix/forms/utils';
-import { isNotEmpty } from '@primeuix/utils';
+import { toValues } from '@mizuuix/forms/utils';
+import { isNotEmpty } from '@mizuuix/utils';
 import type { AnyObjectSchema, ValidateOptions, ValidationError } from 'yup';
 import type { ResolverOptions, ResolverResult } from '..';
 

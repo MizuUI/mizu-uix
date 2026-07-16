@@ -1,6 +1,6 @@
-import type { SelectButtonTokenSections } from '@primeuix/themes/types/selectbutton';
+import type { SelectButtonTokenSections } from '@mizuuix/themes/types/selectbutton';
 
-export * from '@primeuix/themes/types/selectbutton';
+export * from '@mizuuix/themes/types/selectbutton';
 
 declare const root: SelectButtonTokenSections.Root;
 declare const colorScheme: SelectButtonTokenSections.ColorScheme;

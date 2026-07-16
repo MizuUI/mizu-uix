@@ -1,6 +1,6 @@
-import type { InputNumberTokenSections } from '@primeuix/themes/types/inputnumber';
+import type { InputNumberTokenSections } from '@mizuuix/themes/types/inputnumber';
 
-export * from '@primeuix/themes/types/inputnumber';
+export * from '@mizuuix/themes/types/inputnumber';
 
 declare const root: InputNumberTokenSections.Root;
 declare const button: InputNumberTokenSections.Button;

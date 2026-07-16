@@ -1,5 +1,5 @@
-import type { MaterialBaseDesignTokens } from '@primeuix/themes/material/base';
-import type { Preset } from '@primeuix/themes/types';
+import type { MaterialBaseDesignTokens } from '@mizuuix/themes/material/base';
+import type { Preset } from '@mizuuix/themes/types';
 
 /**
  *

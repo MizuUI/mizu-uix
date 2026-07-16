@@ -1,4 +1,4 @@
-import type { PanelDesignTokens, PanelTokenSections } from '@primeuix/themes/types/panel';
+import type { PanelDesignTokens, PanelTokenSections } from '@mizuuix/themes/types/panel';
 
 export const root: PanelTokenSections.Root = {
     background: '{content.background}',

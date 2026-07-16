@@ -1,6 +1,6 @@
-import type { FileUploadTokenSections } from '@primeuix/themes/types/fileupload';
+import type { FileUploadTokenSections } from '@mizuuix/themes/types/fileupload';
 
-export * from '@primeuix/themes/types/fileupload';
+export * from '@mizuuix/themes/types/fileupload';
 
 declare const root: FileUploadTokenSections.Root;
 declare const header: FileUploadTokenSections.Header;

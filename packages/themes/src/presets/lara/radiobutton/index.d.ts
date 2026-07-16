@@ -1,6 +1,6 @@
-import type { RadioButtonTokenSections } from '@primeuix/themes/types/radiobutton';
+import type { RadioButtonTokenSections } from '@mizuuix/themes/types/radiobutton';
 
-export * from '@primeuix/themes/types/radiobutton';
+export * from '@mizuuix/themes/types/radiobutton';
 
 declare const root: RadioButtonTokenSections.Root;
 declare const icon: RadioButtonTokenSections.Icon;

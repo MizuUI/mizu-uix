@@ -1,4 +1,4 @@
-import type { MenuDesignTokens, MenuTokenSections } from '@primeuix/themes/types/menu';
+import type { MenuDesignTokens, MenuTokenSections } from '@mizuuix/themes/types/menu';
 
 export const root: MenuTokenSections.Root = {
     background: '{content.background}',

@@ -1,6 +1,6 @@
-import type { PopoverTokenSections } from '@primeuix/themes/types/popover';
+import type { PopoverTokenSections } from '@mizuuix/themes/types/popover';
 
-export * from '@primeuix/themes/types/popover';
+export * from '@mizuuix/themes/types/popover';
 
 declare const root: PopoverTokenSections.Root;
 declare const content: PopoverTokenSections.Content;

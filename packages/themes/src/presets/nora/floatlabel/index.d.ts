@@ -1,6 +1,6 @@
-import type { FloatLabelTokenSections } from '@primeuix/themes/types/floatlabel';
+import type { FloatLabelTokenSections } from '@mizuuix/themes/types/floatlabel';
 
-export * from '@primeuix/themes/types/floatlabel';
+export * from '@mizuuix/themes/types/floatlabel';
 
 declare const root: FloatLabelTokenSections.Root;
 declare const over: FloatLabelTokenSections.Over;

@@ -1,4 +1,4 @@
-import { createStyleMarkup, isNotEmpty } from '@primeuix/utils';
+import { createStyleMarkup, isNotEmpty } from '@mizuuix/utils';
 
 export interface StyleSheetProps {
     attrs?: Record<string, unknown>;

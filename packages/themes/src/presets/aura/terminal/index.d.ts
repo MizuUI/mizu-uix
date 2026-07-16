@@ -1,6 +1,6 @@
-import type { TerminalTokenSections } from '@primeuix/themes/types/terminal';
+import type { TerminalTokenSections } from '@mizuuix/themes/types/terminal';
 
-export * from '@primeuix/themes/types/terminal';
+export * from '@mizuuix/themes/types/terminal';
 
 declare const root: TerminalTokenSections.Root;
 declare const prompt: TerminalTokenSections.Prompt;

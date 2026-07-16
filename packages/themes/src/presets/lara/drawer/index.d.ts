@@ -1,6 +1,6 @@
-import type { DrawerTokenSections } from '@primeuix/themes/types/drawer';
+import type { DrawerTokenSections } from '@mizuuix/themes/types/drawer';
 
-export * from '@primeuix/themes/types/drawer';
+export * from '@mizuuix/themes/types/drawer';
 
 declare const root: DrawerTokenSections.Root;
 declare const header: DrawerTokenSections.Header;

@@ -1,7 +1,7 @@
-import type { StyleOptions } from '@primeuix/styled';
-import type { RatingTokenSections } from '@primeuix/themes/types/rating';
+import type { StyleOptions } from '@mizuuix/styled';
+import type { RatingTokenSections } from '@mizuuix/themes/types/rating';
 
-export * from '@primeuix/themes/types/rating';
+export * from '@mizuuix/themes/types/rating';
 
 declare const root: RatingTokenSections.Root;
 declare const icon: RatingTokenSections.Icon;

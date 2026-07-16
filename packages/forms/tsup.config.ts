@@ -23,7 +23,7 @@ export default defineConfig([
         format: ['esm'],
         outDir: 'dist',
         dts: true,
-        external: [/^@primeuix\/(.*)$/, 'joi', 'superstruct', 'valibot', 'yup', 'zod'],
+        external: [/^@mizuuix\/(.*)$/, 'joi', 'superstruct', 'valibot', 'yup', 'zod'],
         minify: isProduction,
         sourcemap: isProduction,
         splitting: false,

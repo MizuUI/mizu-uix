@@ -1,4 +1,4 @@
-import type { TabViewDesignTokens, TabViewTokenSections } from '@primeuix/themes/types/tabview';
+import type { TabViewDesignTokens, TabViewTokenSections } from '@mizuuix/themes/types/tabview';
 
 export const root: TabViewTokenSections.Root = {
     transitionDuration: '{transition.duration}'

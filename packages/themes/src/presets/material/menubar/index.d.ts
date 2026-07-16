@@ -1,7 +1,7 @@
-import type { StyleOptions } from '@primeuix/styled';
-import type { MenubarTokenSections } from '@primeuix/themes/types/menubar';
+import type { StyleOptions } from '@mizuuix/styled';
+import type { MenubarTokenSections } from '@mizuuix/themes/types/menubar';
 
-export * from '@primeuix/themes/types/menubar';
+export * from '@mizuuix/themes/types/menubar';
 
 declare const root: MenubarTokenSections.Root;
 declare const baseItem: MenubarTokenSections.BaseItem;

@@ -1,4 +1,4 @@
-import type { ToggleButtonDesignTokens, ToggleButtonTokenSections } from '@primeuix/themes/types/togglebutton';
+import type { ToggleButtonDesignTokens, ToggleButtonTokenSections } from '@mizuuix/themes/types/togglebutton';
 
 export const root: ToggleButtonTokenSections.Root = {
     padding: '0.5rem 0.75rem',

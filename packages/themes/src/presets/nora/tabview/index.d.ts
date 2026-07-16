@@ -1,6 +1,6 @@
-import type { TabViewTokenSections } from '@primeuix/themes/types/tabview';
+import type { TabViewTokenSections } from '@mizuuix/themes/types/tabview';
 
-export * from '@primeuix/themes/types/tabview';
+export * from '@mizuuix/themes/types/tabview';
 
 declare const root: TabViewTokenSections.Root;
 declare const tabList: TabViewTokenSections.TabList;

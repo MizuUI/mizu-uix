@@ -1,6 +1,6 @@
-import type { ToastTokenSections } from '@primeuix/themes/types/toast';
+import type { ToastTokenSections } from '@mizuuix/themes/types/toast';
 
-export * from '@primeuix/themes/types/toast';
+export * from '@mizuuix/themes/types/toast';
 
 declare const root: ToastTokenSections.Root;
 declare const icon: ToastTokenSections.Icon;

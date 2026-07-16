@@ -1,4 +1,4 @@
-import { EventBus } from '@primeuix/utils/eventbus';
+import { EventBus } from '@mizuuix/utils/eventbus';
 
 const ThemeService = EventBus();
 

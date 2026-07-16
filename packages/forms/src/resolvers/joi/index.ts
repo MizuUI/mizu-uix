@@ -1,5 +1,5 @@
-import { toValues } from '@primeuix/forms/utils';
-import { isNotEmpty } from '@primeuix/utils';
+import { toValues } from '@mizuuix/forms/utils';
+import { isNotEmpty } from '@mizuuix/utils';
 import type { ResolverOptions, ResolverResult } from '..';
 
 export const joiResolver =

@@ -1,6 +1,6 @@
-import type { ContextMenuTokenSections } from '@primeuix/themes/types/contextmenu';
+import type { ContextMenuTokenSections } from '@mizuuix/themes/types/contextmenu';
 
-export * from '@primeuix/themes/types/contextmenu';
+export * from '@mizuuix/themes/types/contextmenu';
 
 declare const root: ContextMenuTokenSections.Root;
 declare const list: ContextMenuTokenSections.List;

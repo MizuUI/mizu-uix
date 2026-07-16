@@ -1,6 +1,6 @@
-import type { InputOtpTokenSections } from '@primeuix/themes/types/inputotp';
+import type { InputOtpTokenSections } from '@mizuuix/themes/types/inputotp';
 
-export * from '@primeuix/themes/types/inputotp';
+export * from '@mizuuix/themes/types/inputotp';
 
 declare const root: InputOtpTokenSections.Root;
 declare const input: InputOtpTokenSections.Input;

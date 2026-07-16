@@ -1,6 +1,6 @@
-import type { OverlayBadgeTokenSections } from '@primeuix/themes/types/overlaybadge';
+import type { OverlayBadgeTokenSections } from '@mizuuix/themes/types/overlaybadge';
 
-export * from '@primeuix/themes/types/overlaybadge';
+export * from '@mizuuix/themes/types/overlaybadge';
 
 declare const root: OverlayBadgeTokenSections.Root;
 declare const _default: {

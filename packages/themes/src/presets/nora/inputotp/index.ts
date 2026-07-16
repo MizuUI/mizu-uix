@@ -1,4 +1,4 @@
-import type { InputOtpDesignTokens, InputOtpTokenSections } from '@primeuix/themes/types/inputotp';
+import type { InputOtpDesignTokens, InputOtpTokenSections } from '@mizuuix/themes/types/inputotp';
 
 export const root: InputOtpTokenSections.Root = {
     gap: '0.5rem'

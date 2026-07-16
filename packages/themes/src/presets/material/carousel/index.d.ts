@@ -1,7 +1,7 @@
-import type { StyleOptions } from '@primeuix/styled';
-import type { CarouselTokenSections } from '@primeuix/themes/types/carousel';
+import type { StyleOptions } from '@mizuuix/styled';
+import type { CarouselTokenSections } from '@mizuuix/themes/types/carousel';
 
-export * from '@primeuix/themes/types/carousel';
+export * from '@mizuuix/themes/types/carousel';
 
 declare const root: CarouselTokenSections.Root;
 declare const content: CarouselTokenSections.Content;

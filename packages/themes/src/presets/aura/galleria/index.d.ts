@@ -1,6 +1,6 @@
-import type { GalleriaTokenSections } from '@primeuix/themes/types/galleria';
+import type { GalleriaTokenSections } from '@mizuuix/themes/types/galleria';
 
-export * from '@primeuix/themes/types/galleria';
+export * from '@mizuuix/themes/types/galleria';
 
 declare const root: GalleriaTokenSections.Root;
 declare const navButton: GalleriaTokenSections.NavButton;
