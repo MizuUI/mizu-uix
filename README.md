@@ -1,27 +1,71 @@
-# PrimeUIX
+# MizuUI
 
-### The next chapter has begun.
+### Beautiful, powerful and permanently open-source UI components for Vue & React.
 
-After years as an open source library, PrimeUIX enters its next chapter as part of **PrimeUI**,  a sustainable foundation for the libraries you rely on.
+MizuUI is a modern Vue & React component library built from the final MIT-licensed mizuVue codebase and created with a simple promise:
 
-This repository is now **archived**. It remains available, as a record of everything built here together.
+> MizuUI will always be free, open source, and community-driven - Always.
 
-## What this means
+No commercial relicensing.
+No paid core.
+No feature gates.
+No vendor lock-in.
 
-**Existing MIT versions remain MIT, forever.**
-Every release published under the MIT license stays exactly as it is. Your existing projects are unaffected. Nothing is taken away.
+## Why MizuUI?
 
-**Development continues at a new home.**
-Active development, new releases, and everything ahead now live under PrimeUI.
+For many years, developers relied on PrimeVue as one of the most complete UI component libraries in the Vue ecosystem.
 
-➡️ **Read the announcement:** [primeui.dev/nextchapter](https://primeui.dev/nextchapter)
+When PrimeVue moved to a commercial licensing model, the final MIT-licensed codebase remained available under the terms of the MIT License.
 
-➡️ **The journey continues at:** [primeuix.dev](https://primeuix.dev)
+MizuUI was created to preserve and continue that open-source foundation for developers, startups, businesses, schools, charities, hobbyists, and the wider Vue  & React community.
 
-## Thank you
+## Features
 
-To everyone who used PrimeUIX, filed an issue, opened a pull request, answered a question, or simply built something with it,  thank you. This library reached hundreds of millions of downloads because of you.
+- ✅ 100% open source
+- ✅ MIT licensed
+- ✅ Community-driven
+- ✅ Vue 3 support
+- ✅ React support
+- ✅ Modern design system
+- ✅ Rich component library
+- ✅ Accessibility focused
+- ✅ TypeScript support
+- ✅ No commercial licensing requirements
+- ✅ Long-term compatibility roadmap
 
-This archive stays here as a thank you and a milestone. The next chapter is just beginning, and we hope you'll be part of it.
+## Installation
 
-— The PrimeTek Team
+UIX:
+npm install @mizuui/mizuuix
+
+Please Note: The current publically available npm package is a prototype and should not be used for a Production environment until release 1.0.0+
+
+## Usage
+
+This package is used as a dependancy of others, you should not need to use it.
+
+## Component Document Site
+
+We are planning on deploying a component document site in the future but for now would recomend using the archived PrimeVue v4 url as the components are forked from this MIT version.
+
+https://v4.primevue.org/
+
+## Roadmap
+
+* Fork and rebrand
+* Build NPM package for as a drop in replacement
+* Build NPM packages for all dependancies (i.e. Icons / Flex, UIX)
+* Build CI/CD Pipelines
+* Deploy document site
+* Bug Fixes
+
+## About MizuUI
+
+MizuUI is an independent open-source project derived from the final
+MIT-licensed PrimeVue codebase.
+
+Original PrimeVue work:
+Copyright (c) PrimeTek Informatics
+
+Subsequent modifications:
+Copyright (c) MizuUI Contributors
