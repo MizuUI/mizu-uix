@@ -1,17 +1,17 @@
 {
-    "name": "@primeuix/utils",
-    "version": "0.6.4",
-    "author": "PrimeTek Informatics",
-    "description": "Utility functions and helpers for PrimeUI Libraries",
-    "keywords": ["utilities", "helpers", "primeng", "primereact", "primevue", "primeuix"],
+    "name": "@mizuuix/utils",
+    "version": "0.0.1",
+    "author": "MizuUI",
+    "description": "Utility functions and helpers for MizuUI Libraries",
+    "keywords": ["utilities", "helpers", "mizui", "mizuuix"],
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/primefaces/primeuix.git",
+        "url": "git+https://github.com/mizuui/mizuuix.git",
         "directory": "packages/utils"
     },
     "bugs": {
-        "url": "https://github.com/primefaces/primeuix/issues"
+        "url": "https://github.com/mizuui/mizuuix/issues"
     },
     "main": "./dist/index.mjs",
     "module": "./dist/index.mjs",

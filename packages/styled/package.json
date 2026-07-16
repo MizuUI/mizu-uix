@@ -1,5 +1,5 @@
 {
-    "name": "@primeuix/styled",
+    "name": "@mizuuix/styled",
     "version": "0.7.4",
     "author": "PrimeTek Informatics",
     "description": "Styled utilities for PrimeUI Libraries",
@@ -36,7 +36,7 @@
         "dev:link": "pnpm link --global && npm link"
     },
     "dependencies": {
-        "@primeuix/utils": "workspace:^"
+        "@mizuuix/utils": "workspace:^"
     },
     "engines": {
         "node": ">=12.11.0"

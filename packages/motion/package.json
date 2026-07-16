@@ -1,5 +1,5 @@
 {
-    "name": "@primeuix/motion",
+    "name": "@mizuuix/motion",
     "version": "0.0.11",
     "author": "PrimeTek Informatics",
     "description": "Motion utilities for PrimeUI Libraries",
@@ -36,7 +36,7 @@
         "dev:link": "pnpm link --global && npm link"
     },
     "dependencies": {
-        "@primeuix/utils": "workspace:^"
+        "@mizuuix/utils": "workspace:^"
     },
     "engines": {
         "node": ">=12.11.0"

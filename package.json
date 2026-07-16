@@ -1,14 +1,14 @@
 {
-    "name": "@primeuix/monorepo",
-    "version": "0.7.0",
-    "author": "PrimeTek Informatics",
+    "name": "@mizuuix/monorepo",
+    "version": "0.0.1",
+    "author": "MizuUI",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/primefaces/primeuix.git"
+        "url": "git+https://github.com/mizuui/mizuuix.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/primefaces/primeuix/issues"
+        "url": "https://github.com/mizuui/mizuuix/issues"
     },
     "scripts": {
         "setup": "pnpm run clean && npx concurrently 'pnpm run ng:setup' 'pnpm run vue:setup' 'pnpm run react:setup' 'pnpm run init'",

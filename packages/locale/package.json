@@ -1,5 +1,5 @@
 {
-    "name": "@primeuix/locale",
+    "name": "@mizuuix/locale",
     "version": "0.0.2",
     "author": "PrimeTek Informatics",
     "description": "Locale utilities for PrimeUI Libraries",
@@ -37,7 +37,7 @@
         "dev:link": "pnpm link --global && npm link"
     },
     "dependencies": {
-        "@primeuix/utils": "workspace:^"
+        "@mizuuix/utils": "workspace:^"
     },
     "engines": {
         "node": ">=12.11.0"

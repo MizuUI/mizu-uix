@@ -92,22 +92,22 @@ importers:
 
   apps/playground:
     devDependencies:
-      '@primeuix/forms':
+      '@mizuuix/forms':
         specifier: workspace:*
         version: link:../../packages/forms
-      '@primeuix/locale':
+      '@mizuuix/locale':
         specifier: workspace:*
         version: link:../../packages/locale
-      '@primeuix/styled':
+      '@mizuuix/styled':
         specifier: workspace:*
         version: link:../../packages/styled
-      '@primeuix/styles':
+      '@mizuuix/styles':
         specifier: workspace:*
         version: link:../../packages/styles
-      '@primeuix/themes':
+      '@mizuuix/themes':
         specifier: workspace:*
         version: link:../../packages/themes
-      '@primeuix/utils':
+      '@mizuuix/utils':
         specifier: workspace:*
         version: link:../../packages/utils
       vite:
@@ -116,7 +116,7 @@ importers:
 
   packages/forms:
     dependencies:
-      '@primeuix/utils':
+      '@mizuuix/utils':
         specifier: workspace:^
         version: link:../utils
     devDependencies:
@@ -138,13 +138,13 @@ importers:
 
   packages/headless:
     dependencies:
-      '@primeuix/utils':
+      '@mizuuix/utils':
         specifier: workspace:^
         version: link:../utils
 
   packages/locale:
     dependencies:
-      '@primeuix/utils':
+      '@mizuuix/utils':
         specifier: workspace:^
         version: link:../utils
 
@@ -159,25 +159,25 @@ importers:
 
   packages/motion:
     dependencies:
-      '@primeuix/utils':
+      '@mizuuix/utils':
         specifier: workspace:^
         version: link:../utils
 
   packages/styled:
     dependencies:
-      '@primeuix/utils':
+      '@mizuuix/utils':
         specifier: workspace:^
         version: link:../utils
 
   packages/styles:
     dependencies:
-      '@primeuix/styled':
+      '@mizuuix/styled':
         specifier: workspace:^
         version: link:../styled
 
   packages/themes:
     dependencies:
-      '@primeuix/styled':
+      '@mizuuix/styled':
         specifier: workspace:^
         version: link:../styled
 

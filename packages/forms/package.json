@@ -1,17 +1,17 @@
 {
-    "name": "@primeuix/forms",
-    "version": "0.1.0",
-    "author": "PrimeTek Informatics",
-    "description": "Forms utilities for PrimeUI Libraries",
-    "keywords": ["forms", "validation", "utilities", "primeng", "primereact", "primevue", "primeuix"],
+    "name": "@mizuuix/forms",
+    "version": "0.0.1",
+    "author": "MizuUI",
+    "description": "Forms utilities for MizuUI Libraries",
+    "keywords": ["forms", "validation", "utilities", "mizui", "mizuuix"],
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/primefaces/primeuix.git",
+        "url": "git+https://github.com/mizuui/mizuuix.git",
         "directory": "packages/forms"
     },
     "bugs": {
-        "url": "https://github.com/primefaces/primeuix/issues"
+        "url": "https://github.com/mizuui/mizuuix/issues"
     },
     "exports": {
         "./*": {
@@ -33,7 +33,7 @@
         "dev:link": "pnpm link --global && npm link"
     },
     "dependencies": {
-        "@primeuix/utils": "workspace:^"
+        "@mizuuix/utils": "workspace:^"
     },
     "devDependencies": {
         "yup": "^1.4.0",
